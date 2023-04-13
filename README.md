@@ -54,32 +54,32 @@ In this repository, we follow specific naming conventions for Unreal Engine asse
 
 ```json
 {
-    "Domain": "",
-    "Asset Type": "",
-    "Prefix": "",
-    "Suffix": "",
-    "Example": "",
-    "Notes": ""
+    "domain": "",
+    "type": "",
+    "prefix": "",
+    "suffix": "",
+    "example": "",
+    "notes": ""
 }
 ```
 
-- **Domain**: The category or context of the asset (e.g., Animation, Material, Texture).
-- **Asset Type**: The specific type of asset within the domain (e.g., Character, Prop, UI).
-- **Prefix**: A short code added at the beginning of the asset name to indicate its type (e.g., `M_` for Material, `T_` for Texture).
-- **Suffix**: A short code added at the end of the asset name to provide additional information (e.g., `_N` for Normal Map, `_D` for Diffuse Map).
-- **Example**: A sample asset name that follows the naming convention (e.g., `T_Metal_Steel_BC`).
-- **Notes**: Additional information or guidelines about the naming convention, if applicable.
+- **domain**: The category or context of the asset (e.g., Animation, Material, Texture).
+- **type**: The specific type of asset within the domain (e.g., Character, Prop, UI).
+- **prefix**: A short code added at the beginning of the asset name to indicate its type (e.g., `M_` for Material, `T_` for Texture).
+- **suffix**: A short code added at the end of the asset name to provide additional information (e.g., `_N` for Normal Map, `_D` for Diffuse Map).
+- **example**: A sample asset name that follows the naming convention (e.g., `T_Metal_Steel_BC`).
+- **notes**: Additional information or guidelines about the naming convention, if applicable.
 
 Here's an example of a naming convention JSON entry for base color texture:
 
 ```json
 {
-    "Domain": "Texture",
-    "Asset Type": "Texture (Base Color)",
-    "Prefix": "T_",
-    "Suffix": "_BC",
-    "Example": "T_Example_BC",
-    "Notes": "Base Color, Albedo, Diffuse"
+    "domain": "Texture",
+    "type": "Texture (Base Color)",
+    "prefix": "T_",
+    "suffix": "_BC",
+    "example": "T_Example_BC",
+    "notes": "Base Color, Albedo, Diffuse"
 },
 ```
 
