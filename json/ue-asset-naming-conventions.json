@@ -4,7 +4,7 @@
         "type": "Aim Offset",
         "prefix": "AO_",
         "sSuffix": "",
-        "eExample": "AO_Example",
+        "example": "AO_Example",
         "notes": ""
     },
     {
@@ -12,7 +12,7 @@
         "type": "Aim Offset 1D",
         "prefix": "AO_",
         "sSuffix": "",
-        "eExample": "AO_Example",
+        "example": "AO_Example",
         "notes": ""
     },
     {
@@ -20,7 +20,7 @@
         "type": "Animation Blueprint",
         "prefix": "ABP_",
         "sSuffix": "",
-        "eExample": "ABP_Example",
+        "example": "ABP_Example",
         "notes": ""
     },
     {
@@ -28,7 +28,7 @@
         "type": "Animation Composite",
         "prefix": "AC_",
         "sSuffix": "",
-        "eExample": "AC_Example",
+        "example": "AC_Example",
         "notes": ""
     },
     {
@@ -36,7 +36,7 @@
         "type": "Animation Montage",
         "prefix": "AM_",
         "sSuffix": "",
-        "eExample": "AM_Example",
+        "example": "AM_Example",
         "notes": ""
     },
     {
@@ -44,7 +44,7 @@
         "type": "Animation Notify",
         "prefix": "AN_",
         "sSuffix": "",
-        "eExample": "AN_Example",
+        "example": "AN_Example",
         "notes": ""
     },
     {
@@ -52,7 +52,7 @@
         "type": "Animation Sequence",
         "prefix": "AS_",
         "sSuffix": "",
-        "eExample": "AS_Example",
+        "example": "AS_Example",
         "notes": ""
     },
     {
@@ -60,7 +60,7 @@
         "type": "Blend Space",
         "prefix": "BS_",
         "sSuffix": "",
-        "eExample": "BS_Example",
+        "example": "BS_Example",
         "notes": ""
     },
     {
@@ -68,7 +68,7 @@
         "type": "Blend Space 1D",
         "prefix": "BS_",
         "sSuffix": "",
-        "eExample": "BS_Example",
+        "example": "BS_Example",
         "notes": ""
     },
     {
@@ -76,7 +76,7 @@
         "type": "Level Sequence",
         "prefix": "LS_",
         "sSuffix": "",
-        "eExample": "LS_Example",
+        "example": "LS_Example",
         "notes": ""
     },
     {
@@ -84,7 +84,7 @@
         "type": "Morph Target",
         "prefix": "MT_",
         "sSuffix": "",
-        "eExample": "MT_Example",
+        "example": "MT_Example",
         "notes": ""
     },
     {
@@ -92,7 +92,7 @@
         "type": "Paper Flipbook",
         "prefix": "PFB_",
         "sSuffix": "",
-        "eExample": "PFB_Example",
+        "example": "PFB_Example",
         "notes": ""
     },
     {
@@ -100,7 +100,7 @@
         "type": "Rig",
         "prefix": "Rig_",
         "sSuffix": "",
-        "eExample": "Rig_Example",
+        "example": "Rig_Example",
         "notes": ""
     },
     {
@@ -108,7 +108,7 @@
         "type": "Skeletal Mesh",
         "prefix": "SK_",
         "sSuffix": "",
-        "eExample": "SK_Example",
+        "example": "SK_Example",
         "notes": ""
     },
     {
@@ -116,7 +116,7 @@
         "type": "Skeleton",
         "prefix": "SKEL_",
         "sSuffix": "",
-        "eExample": "SKEL_Example",
+        "example": "SKEL_Example",
         "notes": ""
     },
     {
@@ -124,7 +124,7 @@
         "type": "AI Controller",
         "prefix": "AIC_",
         "sSuffix": "",
-        "eExample": "AIC_Example",
+        "example": "AIC_Example",
         "notes": ""
     },
     {
@@ -132,7 +132,7 @@
         "type": "Behavior Tree",
         "prefix": "BT_",
         "sSuffix": "",
-        "eExample": "BT_Example",
+        "example": "BT_Example",
         "notes": ""
     },
     {
@@ -140,7 +140,7 @@
         "type": "Blackboard",
         "prefix": "BB_",
         "sSuffix": "",
-        "eExample": "BB_Example",
+        "example": "BB_Example",
         "notes": ""
     },
     {
@@ -148,7 +148,7 @@
         "type": "Decorator",
         "prefix": "BTD_",
         "sSuffix": "",
-        "eExample": "BTD_Example",
+        "example": "BTD_Example",
         "notes": ""
     },
     {
@@ -156,7 +156,7 @@
         "type": "Service",
         "prefix": "BTS_",
         "sSuffix": "",
-        "eExample": "BTS_Example",
+        "example": "BTS_Example",
         "notes": ""
     },
     {
@@ -164,7 +164,7 @@
         "type": "Task",
         "prefix": "BTT_",
         "sSuffix": "",
-        "eExample": "BTT_Example",
+        "example": "BTT_Example",
         "notes": ""
     },
     {
@@ -172,7 +172,7 @@
         "type": "Environment Query",
         "prefix": "EQS_",
         "sSuffix": "",
-        "eExample": "EQS_Example",
+        "example": "EQS_Example",
         "notes": ""
     },
     {
@@ -180,7 +180,7 @@
         "type": "Environment Query Context",
         "prefix": "EQS_",
         "sSuffix": "Context",
-        "eExample": "EQS_Example_Context",
+        "example": "EQS_Example_Context",
         "notes": ""
     },
     {
@@ -188,7 +188,7 @@
         "type": "Dialogue Voice",
         "prefix": "DV",
         "sSuffix": "",
-        "eExample": "DV_Example",
+        "example": "DV_Example",
         "notes": ""
     },
     {
@@ -196,7 +196,7 @@
         "type": "Dialogue Wave",
         "prefix": "DW_",
         "sSuffix": "",
-        "eExample": "DW_Example",
+        "example": "DW_Example",
         "notes": ""
     },
     {
@@ -204,7 +204,7 @@
         "type": "Media Sound Wave",
         "prefix": "MSW_",
         "sSuffix": "",
-        "eExample": "MSW_Example",
+        "example": "MSW_Example",
         "notes": ""
     },
     {
@@ -212,7 +212,7 @@
         "type": "Reverb Effect",
         "prefix": "Reverb_",
         "sSuffix": "",
-        "eExample": "Reverb_Example",
+        "example": "Reverb_Example",
         "notes": ""
     },
     {
@@ -220,7 +220,7 @@
         "type": "Sound Attenuation",
         "prefix": "ATT_",
         "sSuffix": "",
-        "eExample": "ATT_Example",
+        "example": "ATT_Example",
         "notes": ""
     },
     {
@@ -228,7 +228,7 @@
         "type": "Sound Class",
         "prefix": "",
         "sSuffix": "",
-        "eExample": "eExample",
+        "example": "example",
         "notes": "No prefix-suffix. Should be placed in a folder called SoundClasses."
     },
     {
@@ -236,7 +236,7 @@
         "type": "Sound Concurrency",
         "prefix": "",
         "sSuffix": "SC",
-        "eExample": "Example_SC",
+        "example": "Example_SC",
         "notes": "Should be named after a SoundClass"
     },
     {
@@ -244,7 +244,7 @@
         "type": "Sound Cue",
         "prefix": "A",
         "sSuffix": "_Cue",
-        "eExample": "A_Example_Cue",
+        "example": "A_Example_Cue",
         "notes": ""
     },
     {
@@ -252,7 +252,7 @@
         "type": "Sound Mix",
         "prefix": "Mix_",
         "sSuffix": "",
-        "eExample": "Mix_Example",
+        "example": "Mix_Example",
         "notes": ""
     },
     {
@@ -260,7 +260,7 @@
         "type": "Sound Wave",
         "prefix": "A_",
         "sSuffix": "",
-        "eExample": "A_Example",
+        "example": "A_Example",
         "notes": ""
     },
     {
@@ -268,7 +268,7 @@
         "type": "Attenuation",
         "prefix": "",
         "sSuffix": "ATT",
-        "eExample": "Example_ATT",
+        "example": "Example_ATT",
         "notes": ""
     },
     {
@@ -276,7 +276,7 @@
         "type": "Blueprint",
         "prefix": "BP",
         "sSuffix": "",
-        "eExample": "BP_Example",
+        "example": "BP_Example",
         "notes": "Some use B_ as a prefix."
     },
     {
@@ -284,7 +284,7 @@
         "type": "Blueprint Component",
         "prefix": "BP_",
         "sSuffix": "*",
-        "eExample": "BP_Example_AC",
+        "example": "BP_Example_AC",
         "notes": "Suffix should be the first letters of the component class. e.g., Actor Component = AC, Scene Component = SC, etc."
     },
     {
@@ -292,7 +292,7 @@
         "type": "Blueprint Function Library",
         "prefix": "BPFL",
         "sSuffix": "",
-        "eExample": "BPFL_Example",
+        "example": "BPFL_Example",
         "notes": ""
     },
     {
@@ -300,7 +300,7 @@
         "type": "Blueprint Macro Library",
         "prefix": "BPML",
         "sSuffix": "",
-        "eExample": "BPML_Example",
+        "example": "BPML_Example",
         "notes": ""
     },
     {
@@ -308,7 +308,7 @@
         "type": "Blueprint Interface",
         "prefix": "BPI",
         "sSuffix": "",
-        "eExample": "BPI_Example",
+        "example": "BPI_Example",
         "notes": ""
     },
     {
@@ -316,7 +316,7 @@
         "type": "Enumerator",
         "prefix": "E",
         "sSuffix": "",
-        "eExample": "EExample",
+        "example": "Example",
         "notes": "No underscore"
     },
     {
@@ -324,7 +324,7 @@
         "type": "Structure",
         "prefix": "S",
         "sSuffix": "",
-        "eExample": "SExample",
+        "example": "SExample",
         "notes": "No underscore"
     },
     {
@@ -332,7 +332,7 @@
         "type": "Tutorial Blueprint",
         "prefix": "TBP_",
         "sSuffix": "",
-        "eExample": "TBP_Example",
+        "example": "TBP_Example",
         "notes": ""
     },
     {
@@ -340,7 +340,7 @@
         "type": "Input Action",
         "prefix": "IA_",
         "sSuffix": "",
-        "eExample": "IA_Example",
+        "example": "IA_Example",
         "notes": ""
     },
     {
@@ -348,7 +348,7 @@
         "type": "Input Mapping Context",
         "prefix": "IMC_",
         "sSuffix": "",
-        "eExample": "IMC_Example",
+        "example": "IMC_Example",
         "notes": ""
     },
     {
@@ -356,7 +356,7 @@
         "type": "Gameplay Abilities",
         "prefix": "GA_",
         "sSuffix": "",
-        "eExample": "GA_Example",
+        "example": "GA_Example",
         "notes": ""
     },
     {
@@ -364,7 +364,7 @@
         "type": "Gameplay Effects",
         "prefix": "GE_",
         "sSuffix": "",
-        "eExample": "GE_Example",
+        "example": "GE_Example",
         "notes": ""
     },
     {
@@ -372,7 +372,7 @@
         "type": "Gameplay Cue Notifies",
         "prefix": "GCN_",
         "sSuffix": "",
-        "eExample": "GCN_Example",
+        "example": "GCN_Example",
         "notes": "Lyra"
     },
     {
@@ -380,7 +380,7 @@
         "type": "Latent Gameplay Cue Notifies",
         "prefix": "GCNL_",
         "sSuffix": "",
-        "eExample": "GCNL_Example",
+        "example": "GCNL_Example",
         "notes": "Lyra"
     },
     {
@@ -388,7 +388,7 @@
         "type": "Game Phase Abilities",
         "prefix": "Phase_",
         "sSuffix": "",
-        "eExample": "Phase_Example",
+        "example": "Phase_Example",
         "notes": ""
     },
     {
@@ -396,7 +396,7 @@
         "type": "Ability Set",
         "prefix": "AS_",
         "sSuffix": "",
-        "eExample": "AS_Example",
+        "example": "AS_Example",
         "notes": ""
     },
     {
@@ -404,7 +404,7 @@
         "type": "Material",
         "prefix": "M_",
         "sSuffix": "",
-        "eExample": "M_Example",
+        "example": "M_Example",
         "notes": ""
     },
     {
@@ -412,7 +412,7 @@
         "type": "Material Instance",
         "prefix": "MI_",
         "sSuffix": "",
-        "eExample": "MI_Example",
+        "example": "MI_Example",
         "notes": ""
     },
     {
@@ -420,7 +420,7 @@
         "type": "Material (Decal)",
         "prefix": "M_, MI_",
         "sSuffix": "_Decal",
-        "eExample": "M_Example_Decal",
+        "example": "M_Example_Decal",
         "notes": ""
     },
     {
@@ -428,7 +428,7 @@
         "type": "Material (Light Function)",
         "prefix": "M_, MI_",
         "sSuffix": "_LF",
-        "eExample": "M_Example_LF",
+        "example": "M_Example_LF",
         "notes": ""
     },
     {
@@ -436,7 +436,7 @@
         "type": "Material (Post Process)",
         "prefix": "M_, MI_",
         "sSuffix": "_PP",
-        "eExample": "M_Example_PP",
+        "example": "M_Example_PP",
         "notes": ""
     },
     {
@@ -444,7 +444,7 @@
         "type": "Material (User Interface)",
         "prefix": "M_, MI_",
         "sSuffix": "_UI",
-        "eExample": "M_Example_UI",
+        "example": "M_Example_UI",
         "notes": ""
     },
     {
@@ -452,7 +452,7 @@
         "type": "Material (Volume)",
         "prefix": "M_, MI_",
         "sSuffix": "_Vol",
-        "eExample": "M_Example_Vol",
+        "example": "M_Example_Vol",
         "notes": ""
     },
     {
@@ -460,7 +460,7 @@
         "type": "Material Function",
         "prefix": "MF_",
         "sSuffix": "",
-        "eExample": "MF_Example",
+        "example": "MF_Example",
         "notes": ""
     },
     {
@@ -468,7 +468,7 @@
         "type": "Material Parameter Collection",
         "prefix": "MPC_",
         "sSuffix": "",
-        "eExample": "MPC_Example",
+        "example": "MPC_Example",
         "notes": ""
     },
     {
@@ -476,7 +476,7 @@
         "type": "Subsurface Profile",
         "prefix": "SP_",
         "sSuffix": "",
-        "eExample": "SP_Example",
+        "example": "SP_Example",
         "notes": ""
     },
     {
@@ -484,7 +484,7 @@
         "type": "Texture",
         "prefix": "T_",
         "sSuffix": "",
-        "eExample": "T_Example",
+        "example": "T_Example",
         "notes": ""
     },
     {
@@ -492,7 +492,7 @@
         "type": "Texture (Base Color)",
         "prefix": "T_",
         "sSuffix": "_BC",
-        "eExample": "T_Example_BC",
+        "example": "T_Example_BC",
         "notes": "Base Color, Albedo, Diffuse"
     },
     {
@@ -500,7 +500,7 @@
         "type": "Texture (Ambient Occlusion)",
         "prefix": "T_",
         "sSuffix": "_AO",
-        "eExample": "T_Example_AO",
+        "example": "T_Example_AO",
         "notes": ""
     },
     {
@@ -508,7 +508,7 @@
         "type": "Texture (Roughness)",
         "prefix": "T_",
         "sSuffix": "_R",
-        "eExample": "T_Example_R",
+        "example": "T_Example_R",
         "notes": ""
     },
     {
@@ -516,7 +516,7 @@
         "type": "Texture (Specular)",
         "prefix": "T_",
         "sSuffix": "_S",
-        "eExample": "T_Example_S",
+        "example": "T_Example_S",
         "notes": ""
     },
     {
@@ -524,7 +524,7 @@
         "type": "Texture (Metallic)",
         "prefix": "T_",
         "sSuffix": "_M",
-        "eExample": "T_Example_M",
+        "example": "T_Example_M",
         "notes": ""
     },
     {
@@ -532,7 +532,7 @@
         "type": "Texture (Normal)",
         "prefix": "T_",
         "sSuffix": "_N",
-        "eExample": "T_Example_N",
+        "example": "T_Example_N",
         "notes": ""
     },
     {
@@ -540,7 +540,7 @@
         "type": "Texture (Emissive)",
         "prefix": "T_",
         "sSuffix": "_E",
-        "eExample": "T_Example_E",
+        "example": "T_Example_E",
         "notes": ""
     },
     {
@@ -548,7 +548,7 @@
         "type": "Texture (Mask)",
         "prefix": "T_",
         "sSuffix": "_Mask",
-        "eExample": "T_Example_Mask",
+        "example": "T_Example_Mask",
         "notes": ""
     },
     {
@@ -556,7 +556,7 @@
         "type": "Texture (Flow Map)",
         "prefix": "T_",
         "sSuffix": "_F",
-        "eExample": "T_Example_F",
+        "example": "T_Example_F",
         "notes": ""
     },
     {
@@ -564,7 +564,7 @@
         "type": "Texture (Height)",
         "prefix": "T_",
         "sSuffix": "_H",
-        "eExample": "T_Example_H",
+        "example": "T_Example_H",
         "notes": ""
     },
     {
@@ -572,7 +572,7 @@
         "type": "Texture (Displacement)",
         "prefix": "T_",
         "sSuffix": "_D",
-        "eExample": "T_Example_D",
+        "example": "T_Example_D",
         "notes": ""
     },
     {
@@ -580,7 +580,7 @@
         "type": "Texture (Light Map)",
         "prefix": "T_",
         "sSuffix": "_L",
-        "eExample": "T_Example_L",
+        "example": "T_Example_L",
         "notes": ""
     },
     {
@@ -588,7 +588,7 @@
         "type": "Texture (Alpha/Opacity)",
         "prefix": "T_",
         "sSuffix": "_A",
-        "eExample": "T_Example_A",
+        "example": "T_Example_A",
         "notes": ""
     },
     {
@@ -596,7 +596,7 @@
         "type": "Texture (Packed)",
         "prefix": "T_",
         "sSuffix": "_*",
-        "eExample": "T_Example_ARMH",
+        "example": "T_Example_ARMH",
         "notes": "Use texture type in RGBA order. e.g., ARMH (Ambient Occlusion, Roughness, Metallic, Height)"
     },
     {
@@ -604,7 +604,7 @@
         "type": "Texture Cube",
         "prefix": "TC_",
         "sSuffix": "",
-        "eExample": "TC_Example",
+        "example": "TC_Example",
         "notes": ""
     },
     {
@@ -612,7 +612,7 @@
         "type": "Media Texture",
         "prefix": "MT_",
         "sSuffix": "",
-        "eExample": "MT_Example",
+        "example": "MT_Example",
         "notes": ""
     },
     {
@@ -620,7 +620,7 @@
         "type": "Render Target",
         "prefix": "RT_",
         "sSuffix": "",
-        "eExample": "RT_Example",
+        "example": "RT_Example",
         "notes": ""
     },
     {
@@ -628,7 +628,7 @@
         "type": "Cube Render Target",
         "prefix": "RTC_",
         "sSuffix": "",
-        "eExample": "RTC_Example",
+        "example": "RTC_Example",
         "notes": ""
     },
     {
@@ -636,7 +636,7 @@
         "type": "Texture Light Profile",
         "prefix": "TLP_",
         "sSuffix": "",
-        "eExample": "TLP_Example",
+        "example": "TLP_Example",
         "notes": ""
     },
     {
@@ -644,7 +644,7 @@
         "type": "Niagara Emitter",
         "prefix": "NE_",
         "sSuffix": "",
-        "eExample": "NE_Example",
+        "example": "NE_Example",
         "notes": ""
     },
     {
@@ -652,7 +652,7 @@
         "type": "Niagara System",
         "prefix": "NS_",
         "sSuffix": "",
-        "eExample": "NS_Example",
+        "example": "NS_Example",
         "notes": ""
     },
     {
@@ -660,7 +660,7 @@
         "type": "Niagara Dynamic Input Script",
         "prefix": "NDIS_",
         "sSuffix": "",
-        "eExample": "NDIS_Example",
+        "example": "NDIS_Example",
         "notes": ""
     },
     {
@@ -668,7 +668,7 @@
         "type": "Niagara Effect Type",
         "prefix": "NET_",
         "sSuffix": "",
-        "eExample": "NET_Example",
+        "example": "NET_Example",
         "notes": ""
     },
     {
@@ -676,7 +676,7 @@
         "type": "Niagara Function Script",
         "prefix": "NFS_",
         "sSuffix": "",
-        "eExample": "NFS_Example",
+        "example": "NFS_Example",
         "notes": ""
     },
     {
@@ -684,7 +684,7 @@
         "type": "Niagara Module Script",
         "prefix": "NMS_",
         "sSuffix": "",
-        "eExample": "NMS_Example",
+        "example": "NMS_Example",
         "notes": ""
     },
     {
@@ -692,7 +692,7 @@
         "type": "Niagara Parameter Collection",
         "prefix": "NPC_",
         "sSuffix": "",
-        "eExample": "NPC_Example",
+        "example": "NPC_Example",
         "notes": ""
     },
     {
@@ -700,7 +700,7 @@
         "type": "Niagara Parameter Collection Instance",
         "prefix": "NPCI_",
         "sSuffix": "",
-        "eExample": "NPCI_Example",
+        "example": "NPCI_Example",
         "notes": ""
     },
     {
@@ -708,7 +708,7 @@
         "type": "Paper Flipbook",
         "prefix": "PFB_",
         "sSuffix": "",
-        "eExample": "PFB_Example",
+        "example": "PFB_Example",
         "notes": ""
     },
     {
@@ -716,7 +716,7 @@
         "type": "Sprite",
         "prefix": "SPR_",
         "sSuffix": "",
-        "eExample": "SPR_Example",
+        "example": "SPR_Example",
         "notes": ""
     },
     {
@@ -724,7 +724,7 @@
         "type": "Sprite Atlas Group",
         "prefix": "SPRG_",
         "sSuffix": "",
-        "eExample": "SPRG_Example",
+        "example": "SPRG_Example",
         "notes": ""
     },
     {
@@ -732,7 +732,7 @@
         "type": "Tile Map",
         "prefix": "TM_",
         "sSuffix": "",
-        "eExample": "TM_Example",
+        "example": "TM_Example",
         "notes": ""
     },
     {
@@ -740,7 +740,7 @@
         "type": "Tile Set",
         "prefix": "TS_",
         "sSuffix": "",
-        "eExample": "TS_Example",
+        "example": "TS_Example",
         "notes": ""
     },
     {
@@ -748,7 +748,7 @@
         "type": "Physical Material",
         "prefix": "PM_",
         "sSuffix": "",
-        "eExample": "PM_Example",
+        "example": "PM_Example",
         "notes": ""
     },
     {
@@ -756,7 +756,7 @@
         "type": "Physics Asset",
         "prefix": "PHYS_",
         "sSuffix": "",
-        "eExample": "PHYS_Example",
+        "example": "PHYS_Example",
         "notes": ""
     },
     {
@@ -764,7 +764,7 @@
         "type": "Destructable Mesh",
         "prefix": "DM_",
         "sSuffix": "",
-        "eExample": "DM_Example",
+        "example": "DM_Example",
         "notes": ""
     },
     {
@@ -772,7 +772,7 @@
         "type": "Widget Blueprint",
         "prefix": "W_",
         "sSuffix": "",
-        "eExample": "W_Example",
+        "example": "W_Example",
         "notes": "Some use WBP_ as a prefix"
     },
     {
@@ -780,7 +780,7 @@
         "type": "Editor Utility Widget Blueprint",
         "prefix": "EUW_",
         "sSuffix": "",
-        "eExample": "EUW_Example",
+        "example": "EUW_Example",
         "notes": ""
     },
     {
@@ -788,7 +788,7 @@
         "type": "Font",
         "prefix": "Font_",
         "sSuffix": "",
-        "eExample": "Font_Example",
+        "example": "Font_Example",
         "notes": ""
     },
     {
@@ -796,7 +796,7 @@
         "type": "Slate Brush",
         "prefix": "SB_",
         "sSuffix": "",
-        "eExample": "SB_Example",
+        "example": "SB_Example",
         "notes": ""
     },
     {
@@ -804,7 +804,7 @@
         "type": "Slate Widget Style",
         "prefix": "SWS_",
         "sSuffix": "",
-        "eExample": "SWS_Example",
+        "example": "SWS_Example",
         "notes": ""
     },
     {
@@ -812,7 +812,7 @@
         "type": "Animated Vector Field",
         "prefix": "VFA_",
         "sSuffix": "",
-        "eExample": "VFA_Example",
+        "example": "VFA_Example",
         "notes": ""
     },
     {
@@ -820,7 +820,7 @@
         "type": "Camera Anim",
         "prefix": "CA_",
         "sSuffix": "",
-        "eExample": "CA_Example",
+        "example": "CA_Example",
         "notes": ""
     },
     {
@@ -828,7 +828,7 @@
         "type": "Blink Media Player",
         "prefix": "BMP_",
         "sSuffix": "",
-        "eExample": "BMP_Example",
+        "example": "BMP_Example",
         "notes": ""
     },
     {
@@ -836,7 +836,7 @@
         "type": "Color Curve",
         "prefix": "Curve_",
         "sSuffix": "Color",
-        "eExample": "Curve_Example_Color",
+        "example": "Curve_Example_Color",
         "notes": ""
     },
     {
@@ -844,7 +844,7 @@
         "type": "Curve Atlas",
         "prefix": "Curve",
         "sSuffix": "Atlas",
-        "eExample": "Curve_Example_Atlas",
+        "example": "Curve_Example_Atlas",
         "notes": ""
     },
     {
@@ -852,7 +852,7 @@
         "type": "Curve Table",
         "prefix": "Curve",
         "sSuffix": "Table",
-        "eExample": "Curve_Example_Table",
+        "example": "Curve_Example_Table",
         "notes": ""
     },
     {
@@ -860,7 +860,7 @@
         "type": "Float Curve",
         "prefix": "Curve",
         "sSuffix": "Float",
-        "eExample": "Curve_Example_Float",
+        "example": "Curve_Example_Float",
         "notes": ""
     },
     {
@@ -868,7 +868,7 @@
         "type": "Vector Curve",
         "prefix": "Curve",
         "sSuffix": "Vector",
-        "eExample": "Curve_Example_Vector",
+        "example": "Curve_Example_Vector",
         "notes": ""
     },
     {
@@ -876,7 +876,7 @@
         "type": "Data Asset",
         "prefix": "DA*_",
         "sSuffix": "",
-        "eExample": "DA_Weapon_Example",
+        "example": "DA_Weapon_Example",
         "notes": "Prefix should be based on sub-class type"
     },
     {
@@ -884,7 +884,7 @@
         "type": "Data Table",
         "prefix": "DT_",
         "sSuffix": "",
-        "eExample": "DT_Example",
+        "example": "DT_Example",
         "notes": ""
     },
     {
@@ -892,7 +892,7 @@
         "type": "Data Registry",
         "prefix": "DR_",
         "sSuffix": "",
-        "eExample": "DR_Example",
+        "example": "DR_Example",
         "notes": ""
     },
     {
@@ -900,7 +900,7 @@
         "type": "File Media Source",
         "prefix": "FMS_",
         "sSuffix": "",
-        "eExample": "FMS_Example",
+        "example": "FMS_Example",
         "notes": ""
     },
     {
@@ -908,7 +908,7 @@
         "type": "Foliage Type",
         "prefix": "FT_",
         "sSuffix": "",
-        "eExample": "FT_Example",
+        "example": "FT_Example",
         "notes": ""
     },
     {
@@ -916,7 +916,7 @@
         "type": "Force Feedback Effect",
         "prefix": "FFE_",
         "sSuffix": "",
-        "eExample": "FFE_Example",
+        "example": "FFE_Example",
         "notes": ""
     },
     {
@@ -924,7 +924,7 @@
         "type": "Landscape Grass Type",
         "prefix": "LG_",
         "sSuffix": "",
-        "eExample": "LG_Example",
+        "example": "LG_Example",
         "notes": ""
     },
     {
@@ -932,7 +932,7 @@
         "type": "Landscape Layer",
         "prefix": "LL_",
         "sSuffix": "",
-        "eExample": "LL_Example",
+        "example": "LL_Example",
         "notes": ""
     },
     {
@@ -940,7 +940,7 @@
         "type": "Level",
         "prefix": "L_",
         "sSuffix": "",
-        "eExample": "L_Example",
+        "example": "L_Example",
         "notes": ""
     },
     {
@@ -948,7 +948,7 @@
         "type": "Level Instance",
         "prefix": "LI_",
         "sSuffix": "",
-        "eExample": "LI_Example",
+        "example": "LI_Example",
         "notes": ""
     },
     {
@@ -956,7 +956,7 @@
         "type": "Level (World Partition)",
         "prefix": "L_",
         "sSuffix": "_WP",
-        "eExample": "L_Example_WP",
+        "example": "L_Example_WP",
         "notes": ""
     },
     {
@@ -964,7 +964,7 @@
         "type": "Media Player",
         "prefix": "MP_",
         "sSuffix": "",
-        "eExample": "MP_Example",
+        "example": "MP_Example",
         "notes": ""
     },
     {
@@ -972,7 +972,7 @@
         "type": "Object Library",
         "prefix": "OL_",
         "sSuffix": "",
-        "eExample": "OL_Example",
+        "example": "OL_Example",
         "notes": ""
     },
     {
@@ -980,7 +980,7 @@
         "type": "Redirector",
         "prefix": "",
         "sSuffix": "",
-        "eExample": "",
+        "example": "",
         "notes": "Fix redirectors ASAP"
     },
     {
@@ -988,7 +988,7 @@
         "type": "Static Vector Field",
         "prefix": "VF_",
         "sSuffix": "",
-        "eExample": "VF_Example",
+        "example": "VF_Example",
         "notes": ""
     },
     {
@@ -996,7 +996,7 @@
         "type": "Touch Interface Setup",
         "prefix": "TI_",
         "sSuffix": "",
-        "eExample": "TI_Example",
+        "example": "TI_Example",
         "notes": ""
     },
     {
@@ -1004,7 +1004,7 @@
         "type": "Static Mesh",
         "prefix": "SM_",
         "sSuffix": "",
-        "eExample": "SM_Example",
+        "example": "SM_Example",
         "notes": "Some use S_ as the prefix."
     },
     {
@@ -1012,7 +1012,7 @@
         "type": "Asset Placement Palette",
         "prefix": "APP_",
         "sSuffix": "",
-        "eExample": "APP_Example",
+        "example": "APP_Example",
         "notes": "Asset Placement Editor Mode Plugin"
     },
     {
@@ -1020,7 +1020,7 @@
         "type": "Substance Graph Instance",
         "prefix": "SGI_",
         "sSuffix": "",
-        "eExample": "SGI_Example",
+        "example": "SGI_Example",
         "notes": "Substance Plugin"
     },
     {
@@ -1028,7 +1028,7 @@
         "type": "Substance Instance Factor",
         "prefix": "SIF_",
         "sSuffix": "",
-        "eExample": "SIF_Example",
+        "example": "SIF_Example",
         "notes": "Substance Plugin"
     }
 ]
