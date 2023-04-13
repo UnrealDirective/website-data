@@ -10615,7 +10615,7 @@
         "name": "LiveCoding.SourceProject",
         "help": "Path to the project that this target was built from",
         "type": "Var",
-        "default": "R:/Unreal Directive/Projects/UnrealDirective/UnrealDirective.uproject",
+        "default": "",
         "notes": ""
     },
     {
