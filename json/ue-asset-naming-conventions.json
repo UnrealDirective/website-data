@@ -1,0 +1,1034 @@
+[
+    {
+        "domain": "Animation",
+        "type": "Aim Offset",
+        "prefix": "AO_",
+        "sSuffix": "",
+        "eExample": "AO_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Animation",
+        "type": "Aim Offset 1D",
+        "prefix": "AO_",
+        "sSuffix": "",
+        "eExample": "AO_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Animation",
+        "type": "Animation Blueprint",
+        "prefix": "ABP_",
+        "sSuffix": "",
+        "eExample": "ABP_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Animation",
+        "type": "Animation Composite",
+        "prefix": "AC_",
+        "sSuffix": "",
+        "eExample": "AC_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Animation",
+        "type": "Animation Montage",
+        "prefix": "AM_",
+        "sSuffix": "",
+        "eExample": "AM_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Animation",
+        "type": "Animation Notify",
+        "prefix": "AN_",
+        "sSuffix": "",
+        "eExample": "AN_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Animation",
+        "type": "Animation Sequence",
+        "prefix": "AS_",
+        "sSuffix": "",
+        "eExample": "AS_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Animation",
+        "type": "Blend Space",
+        "prefix": "BS_",
+        "sSuffix": "",
+        "eExample": "BS_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Animation",
+        "type": "Blend Space 1D",
+        "prefix": "BS_",
+        "sSuffix": "",
+        "eExample": "BS_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Animation",
+        "type": "Level Sequence",
+        "prefix": "LS_",
+        "sSuffix": "",
+        "eExample": "LS_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Animation",
+        "type": "Morph Target",
+        "prefix": "MT_",
+        "sSuffix": "",
+        "eExample": "MT_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Animation",
+        "type": "Paper Flipbook",
+        "prefix": "PFB_",
+        "sSuffix": "",
+        "eExample": "PFB_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Animation",
+        "type": "Rig",
+        "prefix": "Rig_",
+        "sSuffix": "",
+        "eExample": "Rig_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Animation",
+        "type": "Skeletal Mesh",
+        "prefix": "SK_",
+        "sSuffix": "",
+        "eExample": "SK_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Animation",
+        "type": "Skeleton",
+        "prefix": "SKEL_",
+        "sSuffix": "",
+        "eExample": "SKEL_Example",
+        "notes": ""
+    },
+    {
+        "domain": "AI",
+        "type": "AI Controller",
+        "prefix": "AIC_",
+        "sSuffix": "",
+        "eExample": "AIC_Example",
+        "notes": ""
+    },
+    {
+        "domain": "AI",
+        "type": "Behavior Tree",
+        "prefix": "BT_",
+        "sSuffix": "",
+        "eExample": "BT_Example",
+        "notes": ""
+    },
+    {
+        "domain": "AI",
+        "type": "Blackboard",
+        "prefix": "BB_",
+        "sSuffix": "",
+        "eExample": "BB_Example",
+        "notes": ""
+    },
+    {
+        "domain": "AI",
+        "type": "Decorator",
+        "prefix": "BTD_",
+        "sSuffix": "",
+        "eExample": "BTD_Example",
+        "notes": ""
+    },
+    {
+        "domain": "AI",
+        "type": "Service",
+        "prefix": "BTS_",
+        "sSuffix": "",
+        "eExample": "BTS_Example",
+        "notes": ""
+    },
+    {
+        "domain": "AI",
+        "type": "Task",
+        "prefix": "BTT_",
+        "sSuffix": "",
+        "eExample": "BTT_Example",
+        "notes": ""
+    },
+    {
+        "domain": "AI",
+        "type": "Environment Query",
+        "prefix": "EQS_",
+        "sSuffix": "",
+        "eExample": "EQS_Example",
+        "notes": ""
+    },
+    {
+        "domain": "AI",
+        "type": "Environment Query Context",
+        "prefix": "EQS_",
+        "sSuffix": "Context",
+        "eExample": "EQS_Example_Context",
+        "notes": ""
+    },
+    {
+        "domain": "Audio",
+        "type": "Dialogue Voice",
+        "prefix": "DV",
+        "sSuffix": "",
+        "eExample": "DV_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Audio",
+        "type": "Dialogue Wave",
+        "prefix": "DW_",
+        "sSuffix": "",
+        "eExample": "DW_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Audio",
+        "type": "Media Sound Wave",
+        "prefix": "MSW_",
+        "sSuffix": "",
+        "eExample": "MSW_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Audio",
+        "type": "Reverb Effect",
+        "prefix": "Reverb_",
+        "sSuffix": "",
+        "eExample": "Reverb_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Audio",
+        "type": "Sound Attenuation",
+        "prefix": "ATT_",
+        "sSuffix": "",
+        "eExample": "ATT_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Audio",
+        "type": "Sound Class",
+        "prefix": "",
+        "sSuffix": "",
+        "eExample": "eExample",
+        "notes": "No prefix-suffix. Should be placed in a folder called SoundClasses."
+    },
+    {
+        "domain": "Audio",
+        "type": "Sound Concurrency",
+        "prefix": "",
+        "sSuffix": "SC",
+        "eExample": "Example_SC",
+        "notes": "Should be named after a SoundClass"
+    },
+    {
+        "domain": "Audio",
+        "type": "Sound Cue",
+        "prefix": "A",
+        "sSuffix": "_Cue",
+        "eExample": "A_Example_Cue",
+        "notes": ""
+    },
+    {
+        "domain": "Audio",
+        "type": "Sound Mix",
+        "prefix": "Mix_",
+        "sSuffix": "",
+        "eExample": "Mix_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Audio",
+        "type": "Sound Wave",
+        "prefix": "A_",
+        "sSuffix": "",
+        "eExample": "A_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Audio",
+        "type": "Attenuation",
+        "prefix": "",
+        "sSuffix": "ATT",
+        "eExample": "Example_ATT",
+        "notes": ""
+    },
+    {
+        "domain": "Blueprint",
+        "type": "Blueprint",
+        "prefix": "BP",
+        "sSuffix": "",
+        "eExample": "BP_Example",
+        "notes": "Some use B_ as a prefix."
+    },
+    {
+        "domain": "Blueprint",
+        "type": "Blueprint Component",
+        "prefix": "BP_",
+        "sSuffix": "*",
+        "eExample": "BP_Example_AC",
+        "notes": "Suffix should be the first letters of the component class. e.g., Actor Component = AC, Scene Component = SC, etc."
+    },
+    {
+        "domain": "Blueprint",
+        "type": "Blueprint Function Library",
+        "prefix": "BPFL",
+        "sSuffix": "",
+        "eExample": "BPFL_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Blueprint",
+        "type": "Blueprint Macro Library",
+        "prefix": "BPML",
+        "sSuffix": "",
+        "eExample": "BPML_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Blueprint",
+        "type": "Blueprint Interface",
+        "prefix": "BPI",
+        "sSuffix": "",
+        "eExample": "BPI_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Blueprint",
+        "type": "Enumerator",
+        "prefix": "E",
+        "sSuffix": "",
+        "eExample": "EExample",
+        "notes": "No underscore"
+    },
+    {
+        "domain": "Blueprint",
+        "type": "Structure",
+        "prefix": "S",
+        "sSuffix": "",
+        "eExample": "SExample",
+        "notes": "No underscore"
+    },
+    {
+        "domain": "Blueprint",
+        "type": "Tutorial Blueprint",
+        "prefix": "TBP_",
+        "sSuffix": "",
+        "eExample": "TBP_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Enhanced Input",
+        "type": "Input Action",
+        "prefix": "IA_",
+        "sSuffix": "",
+        "eExample": "IA_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Enhanced Input",
+        "type": "Input Mapping Context",
+        "prefix": "IMC_",
+        "sSuffix": "",
+        "eExample": "IMC_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Gameplay",
+        "type": "Gameplay Abilities",
+        "prefix": "GA_",
+        "sSuffix": "",
+        "eExample": "GA_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Gameplay",
+        "type": "Gameplay Effects",
+        "prefix": "GE_",
+        "sSuffix": "",
+        "eExample": "GE_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Gameplay",
+        "type": "Gameplay Cue Notifies",
+        "prefix": "GCN_",
+        "sSuffix": "",
+        "eExample": "GCN_Example",
+        "notes": "Lyra"
+    },
+    {
+        "domain": "Gameplay",
+        "type": "Latent Gameplay Cue Notifies",
+        "prefix": "GCNL_",
+        "sSuffix": "",
+        "eExample": "GCNL_Example",
+        "notes": "Lyra"
+    },
+    {
+        "domain": "Gameplay",
+        "type": "Game Phase Abilities",
+        "prefix": "Phase_",
+        "sSuffix": "",
+        "eExample": "Phase_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Gameplay",
+        "type": "Ability Set",
+        "prefix": "AS_",
+        "sSuffix": "",
+        "eExample": "AS_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Material",
+        "type": "Material",
+        "prefix": "M_",
+        "sSuffix": "",
+        "eExample": "M_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Material",
+        "type": "Material Instance",
+        "prefix": "MI_",
+        "sSuffix": "",
+        "eExample": "MI_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Material",
+        "type": "Material (Decal)",
+        "prefix": "M_, MI_",
+        "sSuffix": "_Decal",
+        "eExample": "M_Example_Decal",
+        "notes": ""
+    },
+    {
+        "domain": "Material",
+        "type": "Material (Light Function)",
+        "prefix": "M_, MI_",
+        "sSuffix": "_LF",
+        "eExample": "M_Example_LF",
+        "notes": ""
+    },
+    {
+        "domain": "Material",
+        "type": "Material (Post Process)",
+        "prefix": "M_, MI_",
+        "sSuffix": "_PP",
+        "eExample": "M_Example_PP",
+        "notes": ""
+    },
+    {
+        "domain": "Material",
+        "type": "Material (User Interface)",
+        "prefix": "M_, MI_",
+        "sSuffix": "_UI",
+        "eExample": "M_Example_UI",
+        "notes": ""
+    },
+    {
+        "domain": "Material",
+        "type": "Material (Volume)",
+        "prefix": "M_, MI_",
+        "sSuffix": "_Vol",
+        "eExample": "M_Example_Vol",
+        "notes": ""
+    },
+    {
+        "domain": "Material",
+        "type": "Material Function",
+        "prefix": "MF_",
+        "sSuffix": "",
+        "eExample": "MF_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Material",
+        "type": "Material Parameter Collection",
+        "prefix": "MPC_",
+        "sSuffix": "",
+        "eExample": "MPC_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Material",
+        "type": "Subsurface Profile",
+        "prefix": "SP_",
+        "sSuffix": "",
+        "eExample": "SP_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Texture",
+        "type": "Texture",
+        "prefix": "T_",
+        "sSuffix": "",
+        "eExample": "T_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Texture",
+        "type": "Texture (Base Color)",
+        "prefix": "T_",
+        "sSuffix": "_BC",
+        "eExample": "T_Example_BC",
+        "notes": "Base Color, Albedo, Diffuse"
+    },
+    {
+        "domain": "Texture",
+        "type": "Texture (Ambient Occlusion)",
+        "prefix": "T_",
+        "sSuffix": "_AO",
+        "eExample": "T_Example_AO",
+        "notes": ""
+    },
+    {
+        "domain": "Texture",
+        "type": "Texture (Roughness)",
+        "prefix": "T_",
+        "sSuffix": "_R",
+        "eExample": "T_Example_R",
+        "notes": ""
+    },
+    {
+        "domain": "Texture",
+        "type": "Texture (Specular)",
+        "prefix": "T_",
+        "sSuffix": "_S",
+        "eExample": "T_Example_S",
+        "notes": ""
+    },
+    {
+        "domain": "Texture",
+        "type": "Texture (Metallic)",
+        "prefix": "T_",
+        "sSuffix": "_M",
+        "eExample": "T_Example_M",
+        "notes": ""
+    },
+    {
+        "domain": "Texture",
+        "type": "Texture (Normal)",
+        "prefix": "T_",
+        "sSuffix": "_N",
+        "eExample": "T_Example_N",
+        "notes": ""
+    },
+    {
+        "domain": "Texture",
+        "type": "Texture (Emissive)",
+        "prefix": "T_",
+        "sSuffix": "_E",
+        "eExample": "T_Example_E",
+        "notes": ""
+    },
+    {
+        "domain": "Texture",
+        "type": "Texture (Mask)",
+        "prefix": "T_",
+        "sSuffix": "_Mask",
+        "eExample": "T_Example_Mask",
+        "notes": ""
+    },
+    {
+        "domain": "Texture",
+        "type": "Texture (Flow Map)",
+        "prefix": "T_",
+        "sSuffix": "_F",
+        "eExample": "T_Example_F",
+        "notes": ""
+    },
+    {
+        "domain": "Texture",
+        "type": "Texture (Height)",
+        "prefix": "T_",
+        "sSuffix": "_H",
+        "eExample": "T_Example_H",
+        "notes": ""
+    },
+    {
+        "domain": "Texture",
+        "type": "Texture (Displacement)",
+        "prefix": "T_",
+        "sSuffix": "_D",
+        "eExample": "T_Example_D",
+        "notes": ""
+    },
+    {
+        "domain": "Texture",
+        "type": "Texture (Light Map)",
+        "prefix": "T_",
+        "sSuffix": "_L",
+        "eExample": "T_Example_L",
+        "notes": ""
+    },
+    {
+        "domain": "Texture",
+        "type": "Texture (Alpha/Opacity)",
+        "prefix": "T_",
+        "sSuffix": "_A",
+        "eExample": "T_Example_A",
+        "notes": ""
+    },
+    {
+        "domain": "Texture",
+        "type": "Texture (Packed)",
+        "prefix": "T_",
+        "sSuffix": "_*",
+        "eExample": "T_Example_ARMH",
+        "notes": "Use texture type in RGBA order. e.g., ARMH (Ambient Occlusion, Roughness, Metallic, Height)"
+    },
+    {
+        "domain": "Texture",
+        "type": "Texture Cube",
+        "prefix": "TC_",
+        "sSuffix": "",
+        "eExample": "TC_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Texture",
+        "type": "Media Texture",
+        "prefix": "MT_",
+        "sSuffix": "",
+        "eExample": "MT_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Texture",
+        "type": "Render Target",
+        "prefix": "RT_",
+        "sSuffix": "",
+        "eExample": "RT_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Texture",
+        "type": "Cube Render Target",
+        "prefix": "RTC_",
+        "sSuffix": "",
+        "eExample": "RTC_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Texture",
+        "type": "Texture Light Profile",
+        "prefix": "TLP_",
+        "sSuffix": "",
+        "eExample": "TLP_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Niagara",
+        "type": "Niagara Emitter",
+        "prefix": "NE_",
+        "sSuffix": "",
+        "eExample": "NE_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Niagara",
+        "type": "Niagara System",
+        "prefix": "NS_",
+        "sSuffix": "",
+        "eExample": "NS_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Niagara",
+        "type": "Niagara Dynamic Input Script",
+        "prefix": "NDIS_",
+        "sSuffix": "",
+        "eExample": "NDIS_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Niagara",
+        "type": "Niagara Effect Type",
+        "prefix": "NET_",
+        "sSuffix": "",
+        "eExample": "NET_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Niagara",
+        "type": "Niagara Function Script",
+        "prefix": "NFS_",
+        "sSuffix": "",
+        "eExample": "NFS_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Niagara",
+        "type": "Niagara Module Script",
+        "prefix": "NMS_",
+        "sSuffix": "",
+        "eExample": "NMS_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Niagara",
+        "type": "Niagara Parameter Collection",
+        "prefix": "NPC_",
+        "sSuffix": "",
+        "eExample": "NPC_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Niagara",
+        "type": "Niagara Parameter Collection Instance",
+        "prefix": "NPCI_",
+        "sSuffix": "",
+        "eExample": "NPCI_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Paper 2D",
+        "type": "Paper Flipbook",
+        "prefix": "PFB_",
+        "sSuffix": "",
+        "eExample": "PFB_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Paper 2D",
+        "type": "Sprite",
+        "prefix": "SPR_",
+        "sSuffix": "",
+        "eExample": "SPR_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Paper 2D",
+        "type": "Sprite Atlas Group",
+        "prefix": "SPRG_",
+        "sSuffix": "",
+        "eExample": "SPRG_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Paper 2D",
+        "type": "Tile Map",
+        "prefix": "TM_",
+        "sSuffix": "",
+        "eExample": "TM_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Paper 2D",
+        "type": "Tile Set",
+        "prefix": "TS_",
+        "sSuffix": "",
+        "eExample": "TS_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Physics",
+        "type": "Physical Material",
+        "prefix": "PM_",
+        "sSuffix": "",
+        "eExample": "PM_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Physics",
+        "type": "Physics Asset",
+        "prefix": "PHYS_",
+        "sSuffix": "",
+        "eExample": "PHYS_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Physics",
+        "type": "Destructable Mesh",
+        "prefix": "DM_",
+        "sSuffix": "",
+        "eExample": "DM_Example",
+        "notes": ""
+    },
+    {
+        "domain": "UI",
+        "type": "Widget Blueprint",
+        "prefix": "W_",
+        "sSuffix": "",
+        "eExample": "W_Example",
+        "notes": "Some use WBP_ as a prefix"
+    },
+    {
+        "domain": "UI",
+        "type": "Editor Utility Widget Blueprint",
+        "prefix": "EUW_",
+        "sSuffix": "",
+        "eExample": "EUW_Example",
+        "notes": ""
+    },
+    {
+        "domain": "UI",
+        "type": "Font",
+        "prefix": "Font_",
+        "sSuffix": "",
+        "eExample": "Font_Example",
+        "notes": ""
+    },
+    {
+        "domain": "UI",
+        "type": "Slate Brush",
+        "prefix": "SB_",
+        "sSuffix": "",
+        "eExample": "SB_Example",
+        "notes": ""
+    },
+    {
+        "domain": "UI",
+        "type": "Slate Widget Style",
+        "prefix": "SWS_",
+        "sSuffix": "",
+        "eExample": "SWS_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Misc",
+        "type": "Animated Vector Field",
+        "prefix": "VFA_",
+        "sSuffix": "",
+        "eExample": "VFA_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Misc",
+        "type": "Camera Anim",
+        "prefix": "CA_",
+        "sSuffix": "",
+        "eExample": "CA_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Misc",
+        "type": "Blink Media Player",
+        "prefix": "BMP_",
+        "sSuffix": "",
+        "eExample": "BMP_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Misc",
+        "type": "Color Curve",
+        "prefix": "Curve_",
+        "sSuffix": "Color",
+        "eExample": "Curve_Example_Color",
+        "notes": ""
+    },
+    {
+        "domain": "Misc",
+        "type": "Curve Atlas",
+        "prefix": "Curve",
+        "sSuffix": "Atlas",
+        "eExample": "Curve_Example_Atlas",
+        "notes": ""
+    },
+    {
+        "domain": "Misc",
+        "type": "Curve Table",
+        "prefix": "Curve",
+        "sSuffix": "Table",
+        "eExample": "Curve_Example_Table",
+        "notes": ""
+    },
+    {
+        "domain": "Misc",
+        "type": "Float Curve",
+        "prefix": "Curve",
+        "sSuffix": "Float",
+        "eExample": "Curve_Example_Float",
+        "notes": ""
+    },
+    {
+        "domain": "Misc",
+        "type": "Vector Curve",
+        "prefix": "Curve",
+        "sSuffix": "Vector",
+        "eExample": "Curve_Example_Vector",
+        "notes": ""
+    },
+    {
+        "domain": "Misc",
+        "type": "Data Asset",
+        "prefix": "DA*_",
+        "sSuffix": "",
+        "eExample": "DA_Weapon_Example",
+        "notes": "Prefix should be based on sub-class type"
+    },
+    {
+        "domain": "Misc",
+        "type": "Data Table",
+        "prefix": "DT_",
+        "sSuffix": "",
+        "eExample": "DT_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Misc",
+        "type": "Data Registry",
+        "prefix": "DR_",
+        "sSuffix": "",
+        "eExample": "DR_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Misc",
+        "type": "File Media Source",
+        "prefix": "FMS_",
+        "sSuffix": "",
+        "eExample": "FMS_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Misc",
+        "type": "Foliage Type",
+        "prefix": "FT_",
+        "sSuffix": "",
+        "eExample": "FT_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Misc",
+        "type": "Force Feedback Effect",
+        "prefix": "FFE_",
+        "sSuffix": "",
+        "eExample": "FFE_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Misc",
+        "type": "Landscape Grass Type",
+        "prefix": "LG_",
+        "sSuffix": "",
+        "eExample": "LG_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Misc",
+        "type": "Landscape Layer",
+        "prefix": "LL_",
+        "sSuffix": "",
+        "eExample": "LL_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Misc",
+        "type": "Level",
+        "prefix": "L_",
+        "sSuffix": "",
+        "eExample": "L_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Misc",
+        "type": "Level Instance",
+        "prefix": "LI_",
+        "sSuffix": "",
+        "eExample": "LI_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Misc",
+        "type": "Level (World Partition)",
+        "prefix": "L_",
+        "sSuffix": "_WP",
+        "eExample": "L_Example_WP",
+        "notes": ""
+    },
+    {
+        "domain": "Misc",
+        "type": "Media Player",
+        "prefix": "MP_",
+        "sSuffix": "",
+        "eExample": "MP_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Misc",
+        "type": "Object Library",
+        "prefix": "OL_",
+        "sSuffix": "",
+        "eExample": "OL_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Misc",
+        "type": "Redirector",
+        "prefix": "",
+        "sSuffix": "",
+        "eExample": "",
+        "notes": "Fix redirectors ASAP"
+    },
+    {
+        "domain": "Misc",
+        "type": "Static Vector Field",
+        "prefix": "VF_",
+        "sSuffix": "",
+        "eExample": "VF_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Misc",
+        "type": "Touch Interface Setup",
+        "prefix": "TI_",
+        "sSuffix": "",
+        "eExample": "TI_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Misc",
+        "type": "Static Mesh",
+        "prefix": "SM_",
+        "sSuffix": "",
+        "eExample": "SM_Example",
+        "notes": "Some use S_ as the prefix."
+    },
+    {
+        "domain": "Plugin",
+        "type": "Asset Placement Palette",
+        "prefix": "APP_",
+        "sSuffix": "",
+        "eExample": "APP_Example",
+        "notes": "Asset Placement Editor Mode Plugin"
+    },
+    {
+        "domain": "Plugin",
+        "type": "Substance Graph Instance",
+        "prefix": "SGI_",
+        "sSuffix": "",
+        "eExample": "SGI_Example",
+        "notes": "Substance Plugin"
+    },
+    {
+        "domain": "Plugin",
+        "type": "Substance Instance Factor",
+        "prefix": "SIF_",
+        "sSuffix": "",
+        "eExample": "SIF_Example",
+        "notes": "Substance Plugin"
+    }
+]
