@@ -151,7 +151,7 @@ This project is licensed under the CC0 1.0 Universal License, which means the co
 
 If you have any questions, issues, or suggestions, please feel free to open an issue or reach out to the Unreal Directive team:
 
-- Unreal Directive: https://unrealdirective.com/contact
+- Discord: https://discord.unrealdirective.com
 - Email: [contact@unrealdirective.com](mailto:contact@unrealdirective.com)
 
 Thank you for your interest in the Unreal Directive Website Data repository! I look forward to your contributions.
