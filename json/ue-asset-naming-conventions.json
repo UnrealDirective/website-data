@@ -3,7 +3,7 @@
         "domain": "Animation",
         "type": "Aim Offset",
         "prefix": "AO_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "AO_Example",
         "notes": ""
     },
@@ -11,7 +11,7 @@
         "domain": "Animation",
         "type": "Aim Offset 1D",
         "prefix": "AO_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "AO_Example",
         "notes": ""
     },
@@ -19,7 +19,7 @@
         "domain": "Animation",
         "type": "Animation Blueprint",
         "prefix": "ABP_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "ABP_Example",
         "notes": ""
     },
@@ -27,7 +27,7 @@
         "domain": "Animation",
         "type": "Animation Composite",
         "prefix": "AC_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "AC_Example",
         "notes": ""
     },
@@ -35,7 +35,7 @@
         "domain": "Animation",
         "type": "Animation Montage",
         "prefix": "AM_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "AM_Example",
         "notes": ""
     },
@@ -43,7 +43,7 @@
         "domain": "Animation",
         "type": "Animation Notify",
         "prefix": "AN_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "AN_Example",
         "notes": ""
     },
@@ -51,7 +51,7 @@
         "domain": "Animation",
         "type": "Animation Sequence",
         "prefix": "AS_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "AS_Example",
         "notes": ""
     },
@@ -59,7 +59,7 @@
         "domain": "Animation",
         "type": "Blend Space",
         "prefix": "BS_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "BS_Example",
         "notes": ""
     },
@@ -67,7 +67,7 @@
         "domain": "Animation",
         "type": "Blend Space 1D",
         "prefix": "BS_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "BS_Example",
         "notes": ""
     },
@@ -75,7 +75,7 @@
         "domain": "Animation",
         "type": "Level Sequence",
         "prefix": "LS_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "LS_Example",
         "notes": ""
     },
@@ -83,7 +83,7 @@
         "domain": "Animation",
         "type": "Morph Target",
         "prefix": "MT_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "MT_Example",
         "notes": ""
     },
@@ -91,7 +91,7 @@
         "domain": "Animation",
         "type": "Paper Flipbook",
         "prefix": "PFB_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "PFB_Example",
         "notes": ""
     },
@@ -99,7 +99,7 @@
         "domain": "Animation",
         "type": "Rig",
         "prefix": "Rig_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "Rig_Example",
         "notes": ""
     },
@@ -107,7 +107,7 @@
         "domain": "Animation",
         "type": "Skeletal Mesh",
         "prefix": "SK_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "SK_Example",
         "notes": ""
     },
@@ -115,7 +115,7 @@
         "domain": "Animation",
         "type": "Skeleton",
         "prefix": "SKEL_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "SKEL_Example",
         "notes": ""
     },
@@ -123,7 +123,7 @@
         "domain": "AI",
         "type": "AI Controller",
         "prefix": "AIC_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "AIC_Example",
         "notes": ""
     },
@@ -131,7 +131,7 @@
         "domain": "AI",
         "type": "Behavior Tree",
         "prefix": "BT_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "BT_Example",
         "notes": ""
     },
@@ -139,7 +139,7 @@
         "domain": "AI",
         "type": "Blackboard",
         "prefix": "BB_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "BB_Example",
         "notes": ""
     },
@@ -147,7 +147,7 @@
         "domain": "AI",
         "type": "Decorator",
         "prefix": "BTD_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "BTD_Example",
         "notes": ""
     },
@@ -155,7 +155,7 @@
         "domain": "AI",
         "type": "Service",
         "prefix": "BTS_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "BTS_Example",
         "notes": ""
     },
@@ -163,7 +163,7 @@
         "domain": "AI",
         "type": "Task",
         "prefix": "BTT_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "BTT_Example",
         "notes": ""
     },
@@ -171,7 +171,7 @@
         "domain": "AI",
         "type": "Environment Query",
         "prefix": "EQS_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "EQS_Example",
         "notes": ""
     },
@@ -179,7 +179,7 @@
         "domain": "AI",
         "type": "Environment Query Context",
         "prefix": "EQS_",
-        "sSuffix": "Context",
+        "suffix": "Context",
         "example": "EQS_Example_Context",
         "notes": ""
     },
@@ -187,7 +187,7 @@
         "domain": "Audio",
         "type": "Dialogue Voice",
         "prefix": "DV",
-        "sSuffix": "",
+        "suffix": "",
         "example": "DV_Example",
         "notes": ""
     },
@@ -195,7 +195,7 @@
         "domain": "Audio",
         "type": "Dialogue Wave",
         "prefix": "DW_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "DW_Example",
         "notes": ""
     },
@@ -203,7 +203,7 @@
         "domain": "Audio",
         "type": "Media Sound Wave",
         "prefix": "MSW_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "MSW_Example",
         "notes": ""
     },
@@ -211,7 +211,7 @@
         "domain": "Audio",
         "type": "Reverb Effect",
         "prefix": "Reverb_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "Reverb_Example",
         "notes": ""
     },
@@ -219,7 +219,7 @@
         "domain": "Audio",
         "type": "Sound Attenuation",
         "prefix": "ATT_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "ATT_Example",
         "notes": ""
     },
@@ -227,7 +227,7 @@
         "domain": "Audio",
         "type": "Sound Class",
         "prefix": "",
-        "sSuffix": "",
+        "suffix": "",
         "example": "example",
         "notes": "No prefix-suffix. Should be placed in a folder called SoundClasses."
     },
@@ -235,7 +235,7 @@
         "domain": "Audio",
         "type": "Sound Concurrency",
         "prefix": "",
-        "sSuffix": "SC",
+        "suffix": "SC",
         "example": "Example_SC",
         "notes": "Should be named after a SoundClass"
     },
@@ -243,7 +243,7 @@
         "domain": "Audio",
         "type": "Sound Cue",
         "prefix": "A",
-        "sSuffix": "_Cue",
+        "suffix": "_Cue",
         "example": "A_Example_Cue",
         "notes": ""
     },
@@ -251,7 +251,7 @@
         "domain": "Audio",
         "type": "Sound Mix",
         "prefix": "Mix_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "Mix_Example",
         "notes": ""
     },
@@ -259,7 +259,7 @@
         "domain": "Audio",
         "type": "Sound Wave",
         "prefix": "A_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "A_Example",
         "notes": ""
     },
@@ -267,7 +267,7 @@
         "domain": "Audio",
         "type": "Attenuation",
         "prefix": "",
-        "sSuffix": "ATT",
+        "suffix": "ATT",
         "example": "Example_ATT",
         "notes": ""
     },
@@ -275,7 +275,7 @@
         "domain": "Blueprint",
         "type": "Blueprint",
         "prefix": "BP",
-        "sSuffix": "",
+        "suffix": "",
         "example": "BP_Example",
         "notes": "Some use B_ as a prefix."
     },
@@ -283,7 +283,7 @@
         "domain": "Blueprint",
         "type": "Blueprint Component",
         "prefix": "BP_",
-        "sSuffix": "*",
+        "suffix": "*",
         "example": "BP_Example_AC",
         "notes": "Suffix should be the first letters of the component class. e.g., Actor Component = AC, Scene Component = SC, etc."
     },
@@ -291,7 +291,7 @@
         "domain": "Blueprint",
         "type": "Blueprint Function Library",
         "prefix": "BPFL",
-        "sSuffix": "",
+        "suffix": "",
         "example": "BPFL_Example",
         "notes": ""
     },
@@ -299,7 +299,7 @@
         "domain": "Blueprint",
         "type": "Blueprint Macro Library",
         "prefix": "BPML",
-        "sSuffix": "",
+        "suffix": "",
         "example": "BPML_Example",
         "notes": ""
     },
@@ -307,7 +307,7 @@
         "domain": "Blueprint",
         "type": "Blueprint Interface",
         "prefix": "BPI",
-        "sSuffix": "",
+        "suffix": "",
         "example": "BPI_Example",
         "notes": ""
     },
@@ -315,7 +315,7 @@
         "domain": "Blueprint",
         "type": "Enumerator",
         "prefix": "E",
-        "sSuffix": "",
+        "suffix": "",
         "example": "Example",
         "notes": "No underscore"
     },
@@ -323,7 +323,7 @@
         "domain": "Blueprint",
         "type": "Structure",
         "prefix": "S",
-        "sSuffix": "",
+        "suffix": "",
         "example": "SExample",
         "notes": "No underscore"
     },
@@ -331,7 +331,7 @@
         "domain": "Blueprint",
         "type": "Tutorial Blueprint",
         "prefix": "TBP_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "TBP_Example",
         "notes": ""
     },
@@ -339,7 +339,7 @@
         "domain": "Enhanced Input",
         "type": "Input Action",
         "prefix": "IA_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "IA_Example",
         "notes": ""
     },
@@ -347,7 +347,7 @@
         "domain": "Enhanced Input",
         "type": "Input Mapping Context",
         "prefix": "IMC_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "IMC_Example",
         "notes": ""
     },
@@ -355,7 +355,7 @@
         "domain": "Gameplay",
         "type": "Gameplay Abilities",
         "prefix": "GA_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "GA_Example",
         "notes": ""
     },
@@ -363,7 +363,7 @@
         "domain": "Gameplay",
         "type": "Gameplay Effects",
         "prefix": "GE_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "GE_Example",
         "notes": ""
     },
@@ -371,7 +371,7 @@
         "domain": "Gameplay",
         "type": "Gameplay Cue Notifies",
         "prefix": "GCN_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "GCN_Example",
         "notes": "Lyra"
     },
@@ -379,7 +379,7 @@
         "domain": "Gameplay",
         "type": "Latent Gameplay Cue Notifies",
         "prefix": "GCNL_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "GCNL_Example",
         "notes": "Lyra"
     },
@@ -387,7 +387,7 @@
         "domain": "Gameplay",
         "type": "Game Phase Abilities",
         "prefix": "Phase_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "Phase_Example",
         "notes": ""
     },
@@ -395,7 +395,7 @@
         "domain": "Gameplay",
         "type": "Ability Set",
         "prefix": "AS_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "AS_Example",
         "notes": ""
     },
@@ -403,7 +403,7 @@
         "domain": "Material",
         "type": "Material",
         "prefix": "M_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "M_Example",
         "notes": ""
     },
@@ -411,7 +411,7 @@
         "domain": "Material",
         "type": "Material Instance",
         "prefix": "MI_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "MI_Example",
         "notes": ""
     },
@@ -419,7 +419,7 @@
         "domain": "Material",
         "type": "Material (Decal)",
         "prefix": "M_, MI_",
-        "sSuffix": "_Decal",
+        "suffix": "_Decal",
         "example": "M_Example_Decal",
         "notes": ""
     },
@@ -427,7 +427,7 @@
         "domain": "Material",
         "type": "Material (Light Function)",
         "prefix": "M_, MI_",
-        "sSuffix": "_LF",
+        "suffix": "_LF",
         "example": "M_Example_LF",
         "notes": ""
     },
@@ -435,7 +435,7 @@
         "domain": "Material",
         "type": "Material (Post Process)",
         "prefix": "M_, MI_",
-        "sSuffix": "_PP",
+        "suffix": "_PP",
         "example": "M_Example_PP",
         "notes": ""
     },
@@ -443,7 +443,7 @@
         "domain": "Material",
         "type": "Material (User Interface)",
         "prefix": "M_, MI_",
-        "sSuffix": "_UI",
+        "suffix": "_UI",
         "example": "M_Example_UI",
         "notes": ""
     },
@@ -451,7 +451,7 @@
         "domain": "Material",
         "type": "Material (Volume)",
         "prefix": "M_, MI_",
-        "sSuffix": "_Vol",
+        "suffix": "_Vol",
         "example": "M_Example_Vol",
         "notes": ""
     },
@@ -459,7 +459,7 @@
         "domain": "Material",
         "type": "Material Function",
         "prefix": "MF_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "MF_Example",
         "notes": ""
     },
@@ -467,7 +467,7 @@
         "domain": "Material",
         "type": "Material Parameter Collection",
         "prefix": "MPC_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "MPC_Example",
         "notes": ""
     },
@@ -475,7 +475,7 @@
         "domain": "Material",
         "type": "Subsurface Profile",
         "prefix": "SP_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "SP_Example",
         "notes": ""
     },
@@ -483,7 +483,7 @@
         "domain": "Texture",
         "type": "Texture",
         "prefix": "T_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "T_Example",
         "notes": ""
     },
@@ -491,7 +491,7 @@
         "domain": "Texture",
         "type": "Texture (Base Color)",
         "prefix": "T_",
-        "sSuffix": "_BC",
+        "suffix": "_BC",
         "example": "T_Example_BC",
         "notes": "Base Color, Albedo, Diffuse"
     },
@@ -499,7 +499,7 @@
         "domain": "Texture",
         "type": "Texture (Ambient Occlusion)",
         "prefix": "T_",
-        "sSuffix": "_AO",
+        "suffix": "_AO",
         "example": "T_Example_AO",
         "notes": ""
     },
@@ -507,7 +507,7 @@
         "domain": "Texture",
         "type": "Texture (Roughness)",
         "prefix": "T_",
-        "sSuffix": "_R",
+        "suffix": "_R",
         "example": "T_Example_R",
         "notes": ""
     },
@@ -515,7 +515,7 @@
         "domain": "Texture",
         "type": "Texture (Specular)",
         "prefix": "T_",
-        "sSuffix": "_S",
+        "suffix": "_S",
         "example": "T_Example_S",
         "notes": ""
     },
@@ -523,7 +523,7 @@
         "domain": "Texture",
         "type": "Texture (Metallic)",
         "prefix": "T_",
-        "sSuffix": "_M",
+        "suffix": "_M",
         "example": "T_Example_M",
         "notes": ""
     },
@@ -531,7 +531,7 @@
         "domain": "Texture",
         "type": "Texture (Normal)",
         "prefix": "T_",
-        "sSuffix": "_N",
+        "suffix": "_N",
         "example": "T_Example_N",
         "notes": ""
     },
@@ -539,7 +539,7 @@
         "domain": "Texture",
         "type": "Texture (Emissive)",
         "prefix": "T_",
-        "sSuffix": "_E",
+        "suffix": "_E",
         "example": "T_Example_E",
         "notes": ""
     },
@@ -547,7 +547,7 @@
         "domain": "Texture",
         "type": "Texture (Mask)",
         "prefix": "T_",
-        "sSuffix": "_Mask",
+        "suffix": "_Mask",
         "example": "T_Example_Mask",
         "notes": ""
     },
@@ -555,7 +555,7 @@
         "domain": "Texture",
         "type": "Texture (Flow Map)",
         "prefix": "T_",
-        "sSuffix": "_F",
+        "suffix": "_F",
         "example": "T_Example_F",
         "notes": ""
     },
@@ -563,7 +563,7 @@
         "domain": "Texture",
         "type": "Texture (Height)",
         "prefix": "T_",
-        "sSuffix": "_H",
+        "suffix": "_H",
         "example": "T_Example_H",
         "notes": ""
     },
@@ -571,7 +571,7 @@
         "domain": "Texture",
         "type": "Texture (Displacement)",
         "prefix": "T_",
-        "sSuffix": "_D",
+        "suffix": "_D",
         "example": "T_Example_D",
         "notes": ""
     },
@@ -579,7 +579,7 @@
         "domain": "Texture",
         "type": "Texture (Light Map)",
         "prefix": "T_",
-        "sSuffix": "_L",
+        "suffix": "_L",
         "example": "T_Example_L",
         "notes": ""
     },
@@ -587,7 +587,7 @@
         "domain": "Texture",
         "type": "Texture (Alpha/Opacity)",
         "prefix": "T_",
-        "sSuffix": "_A",
+        "suffix": "_A",
         "example": "T_Example_A",
         "notes": ""
     },
@@ -595,7 +595,7 @@
         "domain": "Texture",
         "type": "Texture (Packed)",
         "prefix": "T_",
-        "sSuffix": "_*",
+        "suffix": "_*",
         "example": "T_Example_ARMH",
         "notes": "Use texture type in RGBA order. e.g., ARMH (Ambient Occlusion, Roughness, Metallic, Height)"
     },
@@ -603,7 +603,7 @@
         "domain": "Texture",
         "type": "Texture Cube",
         "prefix": "TC_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "TC_Example",
         "notes": ""
     },
@@ -611,7 +611,7 @@
         "domain": "Texture",
         "type": "Media Texture",
         "prefix": "MT_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "MT_Example",
         "notes": ""
     },
@@ -619,7 +619,7 @@
         "domain": "Texture",
         "type": "Render Target",
         "prefix": "RT_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "RT_Example",
         "notes": ""
     },
@@ -627,7 +627,7 @@
         "domain": "Texture",
         "type": "Cube Render Target",
         "prefix": "RTC_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "RTC_Example",
         "notes": ""
     },
@@ -635,7 +635,7 @@
         "domain": "Texture",
         "type": "Texture Light Profile",
         "prefix": "TLP_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "TLP_Example",
         "notes": ""
     },
@@ -643,7 +643,7 @@
         "domain": "Niagara",
         "type": "Niagara Emitter",
         "prefix": "NE_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "NE_Example",
         "notes": ""
     },
@@ -651,7 +651,7 @@
         "domain": "Niagara",
         "type": "Niagara System",
         "prefix": "NS_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "NS_Example",
         "notes": ""
     },
@@ -659,7 +659,7 @@
         "domain": "Niagara",
         "type": "Niagara Dynamic Input Script",
         "prefix": "NDIS_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "NDIS_Example",
         "notes": ""
     },
@@ -667,7 +667,7 @@
         "domain": "Niagara",
         "type": "Niagara Effect Type",
         "prefix": "NET_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "NET_Example",
         "notes": ""
     },
@@ -675,7 +675,7 @@
         "domain": "Niagara",
         "type": "Niagara Function Script",
         "prefix": "NFS_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "NFS_Example",
         "notes": ""
     },
@@ -683,7 +683,7 @@
         "domain": "Niagara",
         "type": "Niagara Module Script",
         "prefix": "NMS_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "NMS_Example",
         "notes": ""
     },
@@ -691,7 +691,7 @@
         "domain": "Niagara",
         "type": "Niagara Parameter Collection",
         "prefix": "NPC_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "NPC_Example",
         "notes": ""
     },
@@ -699,7 +699,7 @@
         "domain": "Niagara",
         "type": "Niagara Parameter Collection Instance",
         "prefix": "NPCI_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "NPCI_Example",
         "notes": ""
     },
@@ -707,7 +707,7 @@
         "domain": "Paper 2D",
         "type": "Paper Flipbook",
         "prefix": "PFB_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "PFB_Example",
         "notes": ""
     },
@@ -715,7 +715,7 @@
         "domain": "Paper 2D",
         "type": "Sprite",
         "prefix": "SPR_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "SPR_Example",
         "notes": ""
     },
@@ -723,7 +723,7 @@
         "domain": "Paper 2D",
         "type": "Sprite Atlas Group",
         "prefix": "SPRG_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "SPRG_Example",
         "notes": ""
     },
@@ -731,7 +731,7 @@
         "domain": "Paper 2D",
         "type": "Tile Map",
         "prefix": "TM_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "TM_Example",
         "notes": ""
     },
@@ -739,7 +739,7 @@
         "domain": "Paper 2D",
         "type": "Tile Set",
         "prefix": "TS_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "TS_Example",
         "notes": ""
     },
@@ -747,7 +747,7 @@
         "domain": "Physics",
         "type": "Physical Material",
         "prefix": "PM_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "PM_Example",
         "notes": ""
     },
@@ -755,7 +755,7 @@
         "domain": "Physics",
         "type": "Physics Asset",
         "prefix": "PHYS_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "PHYS_Example",
         "notes": ""
     },
@@ -763,7 +763,7 @@
         "domain": "Physics",
         "type": "Destructable Mesh",
         "prefix": "DM_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "DM_Example",
         "notes": ""
     },
@@ -771,7 +771,7 @@
         "domain": "UI",
         "type": "Widget Blueprint",
         "prefix": "W_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "W_Example",
         "notes": "Some use WBP_ as a prefix"
     },
@@ -779,7 +779,7 @@
         "domain": "UI",
         "type": "Editor Utility Widget Blueprint",
         "prefix": "EUW_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "EUW_Example",
         "notes": ""
     },
@@ -787,7 +787,7 @@
         "domain": "UI",
         "type": "Font",
         "prefix": "Font_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "Font_Example",
         "notes": ""
     },
@@ -795,7 +795,7 @@
         "domain": "UI",
         "type": "Slate Brush",
         "prefix": "SB_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "SB_Example",
         "notes": ""
     },
@@ -803,7 +803,7 @@
         "domain": "UI",
         "type": "Slate Widget Style",
         "prefix": "SWS_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "SWS_Example",
         "notes": ""
     },
@@ -811,7 +811,7 @@
         "domain": "Misc",
         "type": "Animated Vector Field",
         "prefix": "VFA_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "VFA_Example",
         "notes": ""
     },
@@ -819,7 +819,7 @@
         "domain": "Misc",
         "type": "Camera Anim",
         "prefix": "CA_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "CA_Example",
         "notes": ""
     },
@@ -827,7 +827,7 @@
         "domain": "Misc",
         "type": "Blink Media Player",
         "prefix": "BMP_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "BMP_Example",
         "notes": ""
     },
@@ -835,7 +835,7 @@
         "domain": "Misc",
         "type": "Color Curve",
         "prefix": "Curve_",
-        "sSuffix": "Color",
+        "suffix": "Color",
         "example": "Curve_Example_Color",
         "notes": ""
     },
@@ -843,7 +843,7 @@
         "domain": "Misc",
         "type": "Curve Atlas",
         "prefix": "Curve",
-        "sSuffix": "Atlas",
+        "suffix": "Atlas",
         "example": "Curve_Example_Atlas",
         "notes": ""
     },
@@ -851,7 +851,7 @@
         "domain": "Misc",
         "type": "Curve Table",
         "prefix": "Curve",
-        "sSuffix": "Table",
+        "suffix": "Table",
         "example": "Curve_Example_Table",
         "notes": ""
     },
@@ -859,7 +859,7 @@
         "domain": "Misc",
         "type": "Float Curve",
         "prefix": "Curve",
-        "sSuffix": "Float",
+        "suffix": "Float",
         "example": "Curve_Example_Float",
         "notes": ""
     },
@@ -867,7 +867,7 @@
         "domain": "Misc",
         "type": "Vector Curve",
         "prefix": "Curve",
-        "sSuffix": "Vector",
+        "suffix": "Vector",
         "example": "Curve_Example_Vector",
         "notes": ""
     },
@@ -875,7 +875,7 @@
         "domain": "Misc",
         "type": "Data Asset",
         "prefix": "DA*_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "DA_Weapon_Example",
         "notes": "Prefix should be based on sub-class type"
     },
@@ -883,7 +883,7 @@
         "domain": "Misc",
         "type": "Data Table",
         "prefix": "DT_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "DT_Example",
         "notes": ""
     },
@@ -891,7 +891,7 @@
         "domain": "Misc",
         "type": "Data Registry",
         "prefix": "DR_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "DR_Example",
         "notes": ""
     },
@@ -899,7 +899,7 @@
         "domain": "Misc",
         "type": "File Media Source",
         "prefix": "FMS_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "FMS_Example",
         "notes": ""
     },
@@ -907,7 +907,7 @@
         "domain": "Misc",
         "type": "Foliage Type",
         "prefix": "FT_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "FT_Example",
         "notes": ""
     },
@@ -915,7 +915,7 @@
         "domain": "Misc",
         "type": "Force Feedback Effect",
         "prefix": "FFE_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "FFE_Example",
         "notes": ""
     },
@@ -923,7 +923,7 @@
         "domain": "Misc",
         "type": "Landscape Grass Type",
         "prefix": "LG_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "LG_Example",
         "notes": ""
     },
@@ -931,7 +931,7 @@
         "domain": "Misc",
         "type": "Landscape Layer",
         "prefix": "LL_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "LL_Example",
         "notes": ""
     },
@@ -939,7 +939,7 @@
         "domain": "Misc",
         "type": "Level",
         "prefix": "L_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "L_Example",
         "notes": ""
     },
@@ -947,7 +947,7 @@
         "domain": "Misc",
         "type": "Level Instance",
         "prefix": "LI_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "LI_Example",
         "notes": ""
     },
@@ -955,7 +955,7 @@
         "domain": "Misc",
         "type": "Level (World Partition)",
         "prefix": "L_",
-        "sSuffix": "_WP",
+        "suffix": "_WP",
         "example": "L_Example_WP",
         "notes": ""
     },
@@ -963,7 +963,7 @@
         "domain": "Misc",
         "type": "Media Player",
         "prefix": "MP_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "MP_Example",
         "notes": ""
     },
@@ -971,7 +971,7 @@
         "domain": "Misc",
         "type": "Object Library",
         "prefix": "OL_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "OL_Example",
         "notes": ""
     },
@@ -979,7 +979,7 @@
         "domain": "Misc",
         "type": "Redirector",
         "prefix": "",
-        "sSuffix": "",
+        "suffix": "",
         "example": "",
         "notes": "Fix redirectors ASAP"
     },
@@ -987,7 +987,7 @@
         "domain": "Misc",
         "type": "Static Vector Field",
         "prefix": "VF_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "VF_Example",
         "notes": ""
     },
@@ -995,7 +995,7 @@
         "domain": "Misc",
         "type": "Touch Interface Setup",
         "prefix": "TI_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "TI_Example",
         "notes": ""
     },
@@ -1003,7 +1003,7 @@
         "domain": "Misc",
         "type": "Static Mesh",
         "prefix": "SM_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "SM_Example",
         "notes": "Some use S_ as the prefix."
     },
@@ -1011,7 +1011,7 @@
         "domain": "Plugin",
         "type": "Asset Placement Palette",
         "prefix": "APP_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "APP_Example",
         "notes": "Asset Placement Editor Mode Plugin"
     },
@@ -1019,7 +1019,7 @@
         "domain": "Plugin",
         "type": "Substance Graph Instance",
         "prefix": "SGI_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "SGI_Example",
         "notes": "Substance Plugin"
     },
@@ -1027,7 +1027,7 @@
         "domain": "Plugin",
         "type": "Substance Instance Factor",
         "prefix": "SIF_",
-        "sSuffix": "",
+        "suffix": "",
         "example": "SIF_Example",
         "notes": "Substance Plugin"
     }
