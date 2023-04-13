@@ -48,7 +48,7 @@ cd website-data
 
 ## Data
 
-### Unreal Engine Naming Conventions
+### Unreal Engine Asset Naming Conventions
 
 In this repository, we follow specific naming conventions for Unreal Engine assets. The JSON format for the naming conventions is as follows:
 
