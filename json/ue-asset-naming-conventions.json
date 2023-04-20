@@ -1046,5 +1046,13 @@
         "suffix": "",
         "example": "SIF_Example",
         "notes": "Substance Plugin"
+    },
+    {
+        "domain": "Procedural",
+        "type": "Procedural Content Generation",
+        "prefix": "PCG_",
+        "suffix": "",
+        "example": "PCG_Example",
+        "notes": ""
     }
 ]
