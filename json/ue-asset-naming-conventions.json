@@ -267,8 +267,24 @@
         "domain": "Audio",
         "type": "Attenuation",
         "prefix": "",
-        "suffix": "ATT",
+        "suffix": "_ATT",
         "example": "Example_ATT",
+        "notes": ""
+    },
+    {
+        "domain": "Audio",
+        "type": "Soundscape Palette",
+        "prefix": "",
+        "suffix": "SP_",
+        "example": "SP_Example",
+        "notes": ""
+    },
+    {
+        "domain": "Audio",
+        "type": "Soundscape Color",
+        "prefix": "",
+        "suffix": "SC_",
+        "example": "SC_Example",
         "notes": ""
     },
     {
