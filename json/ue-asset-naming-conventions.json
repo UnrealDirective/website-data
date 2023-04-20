@@ -274,16 +274,16 @@
     {
         "domain": "Audio",
         "type": "Soundscape Palette",
-        "prefix": "",
-        "suffix": "SP_",
+        "prefix": "SP_",
+        "suffix": "",
         "example": "SP_Example",
         "notes": ""
     },
     {
         "domain": "Audio",
         "type": "Soundscape Color",
-        "prefix": "",
-        "suffix": "SC_",
+        "prefix": "SC_",
+        "suffix": "",
         "example": "SC_Example",
         "notes": ""
     },
